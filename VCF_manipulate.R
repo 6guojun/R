@@ -6,3 +6,7 @@ vcf <- read.vcfR(vcf_field, verbose = FALSE)
 vcf
 colnames(vcf@fix)
 vcf
+fasdf
+asdf
+asdf
+asdf
